@@ -58,7 +58,6 @@ Attualmente sto lavorando su un progetto riguardante l'implementazione di un gio
 <hr>
 
 <h3> Idee Future </h3>
-
 + Implementare un gioco di BlackJack in GO (Stimato: Settembre 2022)
 + "Tradurre" la libreria della gestione del mazzo in JAVA (Stimato: Ottobre 2022)
 + Implementare un altro gioco di carte in JAVA (Stimato: Novembre 2022)
