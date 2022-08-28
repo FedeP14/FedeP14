@@ -29,10 +29,10 @@
 
 <h3>Future ideas</h3>
 
-  + Implementing a game of Blackjack in GO _(Expected:September 2022)_
-  + Re-writing the deck library in JAVA _(Expected:October 2022)_
-  + Implementing another cards game in JAVA _(Expected:November 2022)_
-  + Build a web application in GO _(Expected:January 2023)_
+  + Implementing a game of Blackjack in GO
+  + Re-writing the deck library in JAVA
+  + Implementing another cards game in JAVA
+  + Build a web application in GO
   + _continue learning_
 
 <hr>
@@ -60,10 +60,10 @@ Attualmente sto lavorando su un progetto riguardante l'implementazione di un gio
 
 <h3> Idee Future </h3>
 
-  + Implementare un gioco di BlackJack in GO (Stimato: Settembre 2022)
-  + "Tradurre" la libreria della gestione del mazzo in JAVA (Stimato: Ottobre 2022)
-  + Implementare un altro gioco di carte in JAVA (Stimato: Novembre 2022)
-  + Creare una Web App in GO (Simato: Gennaio 2023)
+  + Implementare un gioco di BlackJack in GO
+  + "Tradurre" la libreria della gestione del mazzo in JAVA
+  + Implementare un altro gioco di carte in JAVA
+  + Creare una Web App in GO
   + _continuare a imparare_
 
 
