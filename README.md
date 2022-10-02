@@ -22,14 +22,14 @@
 
 <div id="current-project">
     <h3>Current Project</h3>
-    <p>Currently working on implementing some cards game in GO <br/><i>(as the time being I have written the code involving managing the deck)</i></p>
+    <p>Currently working on implementing some cards game in GO <br/><i>(as the time being I have written the code involving managing the deck and i have realized the code to play a basilar version of Blackjack)</i></p>
 </div>
 
 <hr>
 
 <h3>Future ideas</h3>
 
-  + Implementing a game of Blackjack in GO
+  + Improve Blackjack's repository code
   + Re-writing the deck library in JAVA
   + Implementing another cards game in JAVA
   + Build a web application in GO
@@ -54,13 +54,13 @@ Nato a Milano il 14/01/2022, sono uno studente di Informatica presso l'universit
 
 <h3> Progetti attuali </h3>
 Attualmente sto lavorando su un progetto riguardante l'implementazione di un gioco di carte in GO <br/>
-<i>(Fin'ora ho scritto il codice riguardante la gestione del mazzo)</i>
+<i>(Fin'ora ho scritto il codice riguardante la gestione del mazzo e ho realizzato il codice per giocare ad una versione basilare di Blackjack)</i>
 
 <hr>
 
 <h3> Idee Future </h3>
 
-  + Implementare un gioco di BlackJack in GO
+  + Milgiorare il codice del repository Blackjack
   + "Tradurre" la libreria della gestione del mazzo in JAVA
   + Implementare un altro gioco di carte in JAVA
   + Creare una Web App in GO
