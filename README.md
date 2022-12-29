@@ -9,7 +9,6 @@
 <h3>Summary</h3>
  1. Who am I? <br/>
  2. Current Projects <br/>
- 3. Future ideas
 
 <hr>
 
@@ -21,21 +20,10 @@
 <hr>
 
 <div id="current-project">
-    <h3>Current Project</h3>
+    <h3>Current Projects</h3>
     <p>Currently working on implementing some cards game in GO <br/><i>(as the time being I have written the code involving managing the deck and i have realized the code to play a basilar version of Blackjack)</i></p>
 </div>
 
-<hr>
-
-<h3>Future ideas</h3>
-
-  + Improve Blackjack's repository code
-  + Re-writing the deck library in JAVA
-  + Implementing another cards game in JAVA
-  + Build a web application in GO
-  + _continue learning_
-
-<hr>
 <hr>
 
 🇮🇹
@@ -43,7 +31,6 @@
 
 1. Chi sono?
 2. Progetti attuali
-3. Idee future
 
 <hr>
 
@@ -57,14 +44,6 @@ Attualmente sto lavorando su un progetto riguardante l'implementazione di un gio
 <i>(Fin'ora ho scritto il codice riguardante la gestione del mazzo e ho realizzato il codice per giocare ad una versione basilare di Blackjack)</i>
 
 <hr>
-
-<h3> Idee Future </h3>
-
-  + Milgiorare il codice del repository Blackjack
-  + "Tradurre" la libreria della gestione del mazzo in JAVA
-  + Implementare un altro gioco di carte in JAVA
-  + Creare una Web App in GO
-  + _continuare a imparare_
 
 
 
